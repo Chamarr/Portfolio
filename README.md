@@ -19,6 +19,8 @@ Dependencies Installed:
 - express
 - ejs
 - body-parser
+- serve-favicon
+
 Hosted on Render.com - WEBSITE LINK:
 
 Made by Chamarr Auber.
