@@ -1,6 +1,6 @@
 Hi!
 
-My name is Chamarr Auber and this is my personal portfolio website. This website is to demonstrate and practice my ability in frontend development. This will be the inital version with more features going to be added soon.
+My name is Chamarr Auber and this is my personal portfolio website. This website is to demonstrate and practice my ability in full stack development. This will be the inital version with more features going to be added soon.
 
 Thank you.
 
